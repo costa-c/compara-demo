@@ -1,3 +1,3 @@
-# Using relational operator in Python demo
+# Using relational operators in Python demo
 
 Demonstrate relational operator
